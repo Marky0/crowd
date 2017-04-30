@@ -7,4 +7,4 @@ Uses the handle class hPerson.m which simulates all the behaviours of a person i
 
 Uses the helper class cPosition.m to manipulate the x,y positions of each person in the room.
 
-
+Morale of this story is that you can't acheive perfection. Only way to succeed is for everyone in the room to accept some error.
